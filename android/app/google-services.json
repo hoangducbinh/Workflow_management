@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771472051384",
+    "project_id": "pm-native",
+    "storage_bucket": "pm-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771472051384:android:6c9c7d09341fe9af62784d",
+        "android_client_info": {
+          "package_name": "com.pm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5J9YsCtjFOt-AHnll3-kise3hZtDDvEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
